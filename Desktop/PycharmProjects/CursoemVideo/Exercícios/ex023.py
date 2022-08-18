@@ -1,0 +1,5 @@
+frase = input('Digite um número de 0 a 9999: ')
+print('unidade:', frase[3])
+print('dezena:', frase[2])
+print('centena:', frase[1])
+print('milhar:', frase[0])
